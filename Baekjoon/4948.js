@@ -9,6 +9,7 @@ inputs.pop();
 for (let i = 0; i < inputs.length; i++) {
   let input = Number(inputs[i]);
 
+  // 2n
   let input2 = input * 2;
 
   let isPrimeNumber = Array(input2 + 1).fill(true);
