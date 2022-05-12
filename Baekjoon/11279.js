@@ -1,3 +1,4 @@
+// 최대 힙
 let inputs = require("fs").readFileSync("/dev/stdin").toString().split("\n");
 
 const arr = [];
